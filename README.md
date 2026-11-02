@@ -40,7 +40,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/OtavioAugusto25/OtavioAugusto25/snake-output/snake.svg" alt="Snake animation" />
+![GitHub Snake](https://raw.githubusercontent.com/OtavioAugusto25/OtavioAugusto25/output/github-snake.svg)
 
 ###
 
